@@ -38,12 +38,12 @@ Github, Git, Android, JPA, Mybatis, JAVA, React, SQL, SpringBoot, AWS, Docker, J
   <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL DB-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-181717?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-181717?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-181717?style=flat-square&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-181717?style=flat-square&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-181717?style=flat-square&logo=IntelliJ IDEA&logoColor=#4285F4">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-181717?style=flat-square&logo=IntelliJ IDEA&logoColor=#4285F4">
+  <img src="https://img.shields.io/badge/Visual Studio Code-181717?style=flat-square&logo=Visual Studio Code&logoColor=#2C3454">
+  <img src="https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=HTML5&logoColor=#2C3454">
+  <img src="https://img.shields.io/badge/CSS3-181717?style=flat-square&logo=CSS3&logoColor=#00EA64">
+  <img src="https://img.shields.io/badge/Docker-181717?style=flat-square&logo=Docker&logoColor=#6933FF">
 </p>
 
 <br />
