@@ -18,6 +18,9 @@
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=geesuee)](https://solved.ac/geesuee) -->
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stella6767&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br />
 
 ### Languages and Tools:
