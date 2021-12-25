@@ -21,6 +21,3 @@ Github, Git, Android, JPA, Mybatis, JAVA, React, SQL, SpringBoot, AWS, Docker, J
 
 <br />
 <br />
-
----
-
