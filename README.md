@@ -29,7 +29,7 @@
 
 ### Languages and Tools:
 
-Github, Git, Android, JPA, Mybatis, JAVA, React, SQL, SpringBoot, AWS, Docker, Javascript, Intellij, vscode, HTML5, CSS
+Github, Git, Android, JPA, Mybatis, JAVA, React, SQL, SpringBoot, AWS, Docker, Javascript, Intellij, vscode, HTML5, CSS, Jenkins
 
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
