@@ -1,5 +1,5 @@
 
-## I'm a Java Developer
+## I'm a Java/Kotlin Backend Developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -33,13 +33,15 @@
 
 ### Languages and Tools:
 
-Github, Git, Android, JPA, Mybatis, JAVA, React, SQL, SpringBoot, AWS, Docker, Javascript, Intellij, vscode, HTML5, CSS, Jenkins
+Github, Git, Android, JPA, Mybatis, JAVA, React, SQL, SpringBoot, AWS, Docker, Javascript/TypeScript, Intellij, vscode, HTML5, CSS, Jenkins, Kotlin, NGINX
 
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/Github-F37626?style=flat-square&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon AWS-005571?style=flat-square&logo=Amazon AWS&logoColor=white">
   <img src="https://img.shields.io/badge/Java-FF458E?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=kotlin&logoColor=red">
+  <img src="https://img.shields.io/badge/javascript-007396?style=plastic&logo=javascript&logoColor=green">
   <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL DB-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
