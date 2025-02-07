@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-- 개인 블로그 : [https://www.freeapp.life/](https://www.freeapp.life/)
+- 개인 블로그 : [https://www.freeapp.me/](https://www.freeapp.me/)
 - 네이버 블로그 : [https://blog.naver.com/alsrb9434](https://blog.naver.com/alsrb9434)
 - velog : [https://velog.io/@stella6767](https://velog.io/@stella6767)
 - 유트브: https://www.youtube.com/channel/UCg19zd5p7T_YkjpHp-h0YkQ/featured
