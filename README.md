@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: get a good job with good team
+- 🥅 2025 Goals: get a good job with good team
 
 
 ### Connect with me:
