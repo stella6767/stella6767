@@ -17,22 +17,8 @@
 ---
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geesuee&layout=compact&theme=nightowl&langs_count=10)<br> -->
-<!-- ![stella6767's GitHub stats](https://github-readme-stats.vercel.app/api?username=stella6767&show_icons=true&theme=nightowl)<br>
- -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stella6767&count_private=true&show_icons=true&theme=nightowl) <br>
-
-
-<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=geesuee)](https://solved.ac/geesuee) -->
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stella6767&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <br />
 
