@@ -30,10 +30,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stella6767&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stella6767&show_icons=true&theme=nightowl&cache_seconds=3600)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stella6767&layout=compact&langs_count=8&theme=nightowl&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 <br />
 
